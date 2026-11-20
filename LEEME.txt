@@ -1,0 +1,15 @@
+RAPPITRAVEL CON CLIMA EN TIEMPO REAL
+
+La página consulta la API gratuita Open-Meteo para mostrar la temperatura y
+las condiciones actuales de seis destinos. No necesita clave API.
+
+Estructura:
+- index.html
+- css/estilos.css
+- js/script.js
+
+Para probarlo, abre la carpeta con Live Server o publícala en GitHub Pages.
+Se necesita conexión a Internet para consultar el clima.
+
+La API se consulta desde js/script.js en la función loadWeather().
+Documentación: https://open-meteo.com/
